@@ -1,0 +1,4 @@
+Domain: dev-url.onanlabs.com
+DynamoCapacity:
+  ReadCapacityUnits: 1
+  WriteCapacityUnits: 1

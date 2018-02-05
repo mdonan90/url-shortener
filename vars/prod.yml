@@ -1,0 +1,4 @@
+Domain: url.onanlabs.com
+DynamoCapacity:
+  ReadCapacityUnits: 5
+  WriteCapacityUnits: 5
